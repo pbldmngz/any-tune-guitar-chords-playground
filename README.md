@@ -16,3 +16,11 @@ With this app, you can:
 - Filter by overall finger distance.
 - Change the tempo of the playground.
 - Add more columns to the playground.
+
+> It might take some time to load new tunings, but once it does, it's always available on the database. Further calls will be instantaneous. Defaultly loaded with Standard and Drop D.
+
+To start the application you must:
+1. Install python requirements in `/api` with `python -m pip install -r requirements.txt`
+2. Install node requirements in `/app` with `npm install`
+3. Run the python API file in `/api` with `py api.py`
+4. Inside `/app` run `npm start`
