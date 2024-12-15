@@ -1,5 +1,5 @@
 # Any Tune Guitar Chords & Playground
-This application allows you to explore guitar chords and play them in a virtual soundboard.
+This application allows you to explore guitar chords IN ANY TUNING and play with them in a virtual soundboard.
 
 ![image (3)](https://github.com/user-attachments/assets/eca93a18-9e8a-4353-970e-f332e655368c)
 
